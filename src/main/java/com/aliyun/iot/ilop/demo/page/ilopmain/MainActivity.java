@@ -32,6 +32,7 @@ public class MainActivity extends FragmentActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         FloatWindowHelper helper = FloatWindowHelper.getInstance(getApplication());
+        Log.i("ldn_log","提交git的一个测试修改");
         if (helper != null) {
             helper.setNeedShowFloatWindowFlag(true);
         }

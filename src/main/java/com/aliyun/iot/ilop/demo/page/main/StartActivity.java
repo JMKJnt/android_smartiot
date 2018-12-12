@@ -3,6 +3,7 @@ package com.aliyun.iot.ilop.demo.page.main;
 import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.os.Handler;
+import android.util.Log;
 import android.widget.Toast;
 
 import com.aliyun.iot.aep.component.router.Router;
