@@ -5,7 +5,7 @@ import android.content.Context;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 
 /**

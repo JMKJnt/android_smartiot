@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 /**
  * Created by david on 2018/4/11.

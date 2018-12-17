@@ -9,7 +9,7 @@ import android.util.Log;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 public class LampsSwitchView extends FrameLayout {
 

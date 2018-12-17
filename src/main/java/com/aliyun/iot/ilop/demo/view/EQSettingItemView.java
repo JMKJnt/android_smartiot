@@ -6,7 +6,7 @@ import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
 
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 public class EQSettingItemView extends FrameLayout {
     public EQSettingItemView(@NonNull Context context) {

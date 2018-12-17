@@ -6,7 +6,7 @@ def projectName = "DemoApp"
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.aliyun.iot.demo"
+        applicationId "com.gj.smarttest"
         minSdkVersion 19
         targetSdkVersion 27
         versionCode 6

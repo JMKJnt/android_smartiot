@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 import com.aliyun.iot.aep.sdk.framework.AActivity;
 
 /**

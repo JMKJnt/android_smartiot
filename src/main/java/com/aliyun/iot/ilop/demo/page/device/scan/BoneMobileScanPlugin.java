@@ -8,7 +8,7 @@ import android.widget.Toast;
 import com.aliyun.alink.alirn.dev.BoneDevHelper;
 import com.aliyun.iot.aep.component.router.Router;
 import com.aliyun.iot.aep.component.scan.IScanPlugin;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 import java.util.regex.Pattern;
 

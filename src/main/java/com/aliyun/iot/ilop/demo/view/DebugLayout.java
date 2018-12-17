@@ -34,7 +34,7 @@ import com.aliyun.iot.aep.sdk.login.ILogoutCallback;
 import com.aliyun.iot.aep.sdk.login.LoginBusiness;
 import com.aliyun.iot.aep.sdk.login.data.UserInfo;
 import com.aliyun.iot.aep.sdk.threadpool.ThreadPool;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 import java.util.regex.Pattern;
 

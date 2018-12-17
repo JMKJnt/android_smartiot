@@ -14,7 +14,7 @@ import android.view.WindowManager;
 import android.widget.TextView;
 
 import com.alibaba.sdk.android.openaccount.util.ResourceUtils;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 
 import java.lang.reflect.Field;

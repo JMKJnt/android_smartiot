@@ -19,7 +19,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.aliyun.iot.ilop.demo.utils.ScreenTools;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 /**
  * Created by wb-zyl208210 on 2016/10/20.

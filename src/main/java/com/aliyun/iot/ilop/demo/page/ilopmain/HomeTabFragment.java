@@ -26,7 +26,7 @@ import com.aliyun.iot.aep.sdk.apiclient.request.IoTRequest;
 import com.aliyun.iot.aep.sdk.apiclient.request.IoTRequestBuilder;
 import com.aliyun.iot.aep.sdk.log.ALog;
 import com.aliyun.iot.aep.sdk.login.LoginBusiness;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 import com.aliyun.iot.ilop.demo.page.bean.DeviceInfoBean;
 import com.aliyun.iot.ilop.demo.view.DevicePanelView;
 
@@ -151,7 +151,7 @@ public class HomeTabFragment extends android.support.v4.app.Fragment {
                 try {
                     JSONObject jsonObject = (JSONObject) data;
                     JSONArray jsonArray = jsonObject.getJSONArray("data");
-
+                    ALog.i("xxxx",jsonObject.toString());
                     List<DeviceInfoBean> deviceInfoBeanList = JSON.parseArray(jsonArray.toString(), DeviceInfoBean.class);
                     mHandler.post(new Runnable() {
                         @Override

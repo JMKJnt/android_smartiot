@@ -16,7 +16,7 @@ import com.aliyun.iot.ilop.demo.page.main.StartActivity;
 import com.aliyun.iot.ilop.demo.page.device.scan.AddDeviceScanPlugin;
 import com.aliyun.iot.ilop.demo.utils.FloatWindowHelper;
 import com.aliyun.iot.aep.sdk.login.LoginBusiness;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 import java.util.Arrays;
 

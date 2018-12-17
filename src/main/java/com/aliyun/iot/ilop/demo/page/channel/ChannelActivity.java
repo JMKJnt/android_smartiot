@@ -31,7 +31,7 @@ import com.aliyun.iot.aep.sdk.EnvConfigure;
 import com.aliyun.iot.aep.sdk.framework.AActivity;
 import com.aliyun.iot.aep.sdk.log.ALog;
 import com.aliyun.iot.aep.sdk.login.LoginBusiness;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 public class ChannelActivity extends AActivity implements View.OnClickListener {
 

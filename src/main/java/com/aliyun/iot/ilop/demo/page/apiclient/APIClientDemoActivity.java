@@ -21,7 +21,7 @@ import com.aliyun.iot.aep.sdk.apiclient.callback.IoTResponse;
 import com.aliyun.iot.aep.sdk.apiclient.emuns.Scheme;
 import com.aliyun.iot.aep.sdk.apiclient.request.IoTRequest;
 import com.aliyun.iot.aep.sdk.apiclient.request.IoTRequestBuilder;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;

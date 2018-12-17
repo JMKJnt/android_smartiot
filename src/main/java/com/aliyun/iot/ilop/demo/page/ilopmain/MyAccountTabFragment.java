@@ -19,7 +19,7 @@ import com.aliyun.iot.aep.sdk.login.ILoginCallback;
 import com.aliyun.iot.aep.sdk.login.ILogoutCallback;
 import com.aliyun.iot.aep.sdk.login.LoginBusiness;
 import com.aliyun.iot.aep.sdk.login.data.UserInfo;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 public class MyAccountTabFragment extends Fragment {
     private View myInfoView;

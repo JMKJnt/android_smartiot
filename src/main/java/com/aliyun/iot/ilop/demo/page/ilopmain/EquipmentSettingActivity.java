@@ -16,7 +16,7 @@ import com.aliyun.iot.aep.sdk.apiclient.callback.IoTCallback;
 import com.aliyun.iot.aep.sdk.apiclient.callback.IoTResponse;
 import com.aliyun.iot.aep.sdk.apiclient.request.IoTRequest;
 import com.aliyun.iot.aep.sdk.framework.AActivity;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 import com.aliyun.iot.ilop.demo.view.EQSettingItemView;
 import com.aliyun.iot.ilop.demo.view.SimpleToolBar;
 import com.aliyun.iot.link.ui.component.LinkAlertDialog;

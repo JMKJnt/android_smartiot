@@ -14,7 +14,7 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 /**
  *

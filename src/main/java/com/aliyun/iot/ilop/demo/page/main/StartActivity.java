@@ -10,7 +10,7 @@ import com.aliyun.iot.aep.component.router.Router;
 import com.aliyun.iot.aep.sdk.framework.AActivity;
 import com.aliyun.iot.aep.sdk.login.ILoginCallback;
 import com.aliyun.iot.aep.sdk.login.LoginBusiness;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 
 /**

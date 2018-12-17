@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 import com.aliyun.iot.aep.sdk.framework.AActivity;
 import com.aliyun.iot.aep.sdk.log.ALog;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 import com.aliyun.iot.ilop.demo.page.ota.OTAConstants;
 import com.aliyun.iot.ilop.demo.page.ota.bean.OTADeviceSimpleInfo;
 import com.aliyun.iot.ilop.demo.page.ota.handler.OTAActivityHandler;

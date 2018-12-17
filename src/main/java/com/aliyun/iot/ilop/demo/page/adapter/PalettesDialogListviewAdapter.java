@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import java.lang.reflect.Type;
 
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 import com.aliyun.iot.ilop.demo.page.bean.PalettesDialogBean;
 import com.aliyun.iot.ilop.demo.utils.ColorTools;
 import com.aliyun.iot.ilop.demo.utils.JsonTools;

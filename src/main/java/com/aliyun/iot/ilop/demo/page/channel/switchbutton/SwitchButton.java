@@ -29,7 +29,7 @@ import android.view.ViewParent;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.CompoundButton;
 
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 
 /**

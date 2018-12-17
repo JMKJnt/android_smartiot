@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 import com.aliyun.iot.aep.sdk.EnvConfigure;
 import com.aliyun.iot.aep.sdk.log.ALog;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 import com.aliyun.iot.aep.sdk.framework.AActivity;
 
 public class AboutActivity extends AActivity implements View.OnLongClickListener {

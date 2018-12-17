@@ -17,7 +17,7 @@ import com.aliyun.iot.aep.sdk.framework.sdk.SDKConfigure;
 import com.aliyun.iot.aep.sdk.framework.sdk.SimpleSDKDelegateImp;
 import com.aliyun.iot.aep.sdk.log.ALog;
 import com.aliyun.iot.aep.sdk.login.LoginBusiness;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 import com.aliyun.iot.ilop.demo.page.login3rd.OALoginActivity;
 import com.facebook.FacebookSdk;
 

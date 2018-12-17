@@ -25,7 +25,7 @@ import com.aliyun.iot.aep.sdk.apiclient.request.IoTRequest;
 import com.aliyun.iot.aep.sdk.apiclient.request.IoTRequestBuilder;
 import com.aliyun.iot.aep.sdk.framework.AActivity;
 import com.aliyun.iot.aep.sdk.log.ALog;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 import com.aliyun.iot.ilop.demo.page.device.FilterCallBack;
 import com.aliyun.iot.ilop.demo.page.device.bean.FoundDeviceListItem;
 import com.aliyun.iot.ilop.demo.page.device.bean.SupportDeviceListItem;

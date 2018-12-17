@@ -9,7 +9,7 @@ import android.view.View.OnClickListener;
 import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 public class SimpleTopbar extends FrameLayout implements OnClickListener {
     private RelativeLayout mBackArea;

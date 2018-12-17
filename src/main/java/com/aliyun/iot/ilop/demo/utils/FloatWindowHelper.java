@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.WindowManager;
 
 import com.aliyun.iot.aep.component.router.Router;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 /**
  * Created by feijie.xfj on 17/11/19.

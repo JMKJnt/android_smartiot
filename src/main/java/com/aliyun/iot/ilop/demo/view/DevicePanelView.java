@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 import com.aliyun.iot.ilop.demo.page.bean.DeviceInfoBean;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.GlideBuilder;

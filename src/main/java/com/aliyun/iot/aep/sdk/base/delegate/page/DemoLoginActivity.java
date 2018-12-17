@@ -14,7 +14,7 @@ import com.alibaba.sdk.android.openaccount.ui.OpenAccountUIService;
 import com.alibaba.sdk.android.openaccount.ui.callback.EmailRegisterCallback;
 import com.alibaba.sdk.android.openaccount.ui.callback.EmailResetPasswordCallback;
 import com.alibaba.sdk.android.openaccount.ui.ui.LoginActivity;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 import com.aliyun.iot.ilop.demo.dialog.ASlideDialog;
 
 /**

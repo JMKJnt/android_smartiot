@@ -5,7 +5,7 @@ import android.text.TextUtils;
 import android.widget.ImageView;
 import android.widget.ListView;
 
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 import com.aliyun.iot.ilop.demo.page.adapter.PalettesDialogListviewAdapter;
 import com.aliyun.iot.ilop.demo.page.bean.PalettesDialogBean;
 

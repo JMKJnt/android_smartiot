@@ -18,7 +18,7 @@ import com.aliyun.iot.aep.sdk.apiclient.emuns.Scheme;
 import com.aliyun.iot.aep.sdk.apiclient.request.IoTRequest;
 import com.aliyun.iot.aep.sdk.apiclient.request.IoTRequestBuilder;
 import com.aliyun.iot.aep.sdk.framework.AActivity;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 public class ChangeEqNameActivity extends AActivity {
     private final String path = "/uc/setDeviceNickName";

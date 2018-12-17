@@ -15,7 +15,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import com.aliyun.iot.aep.sdk.log.ALog;
 import com.aliyun.iot.ilop.demo.page.ota.OTAConstants;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 /**
  * Created by david on 2018/4/10.

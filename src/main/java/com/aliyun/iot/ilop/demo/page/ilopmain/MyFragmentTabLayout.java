@@ -8,7 +8,7 @@ import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 public class MyFragmentTabLayout extends FragmentTabHost {
 

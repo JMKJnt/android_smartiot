@@ -3,7 +3,7 @@ package com.aliyun.iot.ilop.demo.page.ilopmain;
 import android.os.Bundle;
 import android.view.View;
 
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 
 public class TabInfo {
     String tabTag;

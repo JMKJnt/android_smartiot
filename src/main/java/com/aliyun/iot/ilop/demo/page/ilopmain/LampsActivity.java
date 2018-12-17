@@ -18,7 +18,7 @@ import com.aliyun.alink.linksdk.tmp.device.panel.listener.IPanelEventCallback;
 import com.aliyun.alink.linksdk.tmp.listener.IDevListener;
 import com.aliyun.alink.linksdk.tmp.utils.ErrorInfo;
 import com.aliyun.iot.aep.sdk.framework.AActivity;
-import com.aliyun.iot.demo.R;
+import com.gj.smarttest.R;
 import com.aliyun.iot.ilop.demo.dialog.HSVDialog;
 import com.aliyun.iot.ilop.demo.page.bean.EventCallbackbean;
 import com.aliyun.iot.ilop.demo.page.bean.PalettesDialogBean;
